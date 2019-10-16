@@ -1,1 +1,1 @@
-grep L337 vehicles -A4
+grep -A4 L337
